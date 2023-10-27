@@ -6,6 +6,10 @@ nav{
     background-color: deeppink;
 }
 
+.tresBotoes{
+    color: white;
+}
+
 .navRedes, .navAgenda, .navSobre{
 color: white;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
