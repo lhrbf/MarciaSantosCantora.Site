@@ -22,13 +22,18 @@ font-size: large;
     padding-top: 40px;
 }
 
-.rdsSociais{
+#icons{
     color: deeppink;
 }
 
 .copy{
     background-color: deeppink;
     color: white;
+}
+
+.agendaDataHora{
+    color: black;
+    border: solid 2px black;
 }
 
 @media screen and (min-width:1400px){
