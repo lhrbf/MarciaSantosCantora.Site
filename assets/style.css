@@ -36,6 +36,10 @@ font-size: large;
     border: solid 2px black;
 }
 
+.agenda{
+    align-content: center;
+}
+
 @media screen and (min-width:1400px){
     .navRedes, .navAgenda, .navSobre{
         color: white;
