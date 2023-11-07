@@ -1,3 +1,5 @@
+<h1 align="center">Marcia Santos Cantora</h1>
+
 Website responsivo criado para cantora Márica Santos. O objetivo da laning page é apresentar seus contatos, músicas, agenda semanal e aumentar sua visibilade de modo geral.
 
 tecnologias utilizadas: HTML, CSS, JS, Bootstrap, Figma, Canva, Photoshop, Node.JS.
@@ -14,3 +16,5 @@ Funcionalidades: - Barra de navegação contém Redes Sociais, Agenda, Sobre (ao
                  - ìcones das redes sociais que vão redicerionar os usuários ao serem clicados.
                  - Video PLayer do Youtube que pode ser reproduzido e compartilhado.
                  - Agenda ataulizada semanalmente(Apenas informativa, não possui interatividade)
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
