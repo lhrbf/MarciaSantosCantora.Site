@@ -17,4 +17,4 @@ Funcionalidades: - Barra de navegação contém Redes Sociais, Agenda, Sobre (ao
                  - Video PLayer do Youtube que pode ser reproduzido e compartilhado.
                  - Agenda ataulizada semanalmente(Apenas informativa, não possui interatividade)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<p align="center"><img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
