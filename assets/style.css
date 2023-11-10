@@ -18,8 +18,8 @@ font-size: large;
 
 .bannerPrincipal{
     border: solid 1px deeppink;
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 90px;
+    padding-top: 90px;
 }
 
 #icons{
@@ -29,15 +29,6 @@ font-size: large;
 .copy{
     background-color: deeppink;
     color: white;
-}
-
-.agendaDataHora{
-    color: black;
-    border: solid 2px black;
-}
-
-.agenda{
-    align-content: center;
 }
 
 @media screen and (min-width:1400px){
