@@ -1,40 +1,44 @@
-:root{
-    background-color: antiquewhite;
+:root {
+  background-color: antiquewhite;
 }
 
-nav{
-    background-color: deeppink;
+nav {
+  background-color: deeppink;
 }
 
-.tresBotoes{
+.navbar-toggle {
+  background-color: deeppink;
+}
+
+.navRedes,
+.navAgenda,
+.navSobre {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
+.bannerPrincipal {
+  border: solid 1px deeppink;
+  padding-bottom: 90px;
+  padding-top: 90px;
+}
+
+#icons {
+  color: deeppink;
+}
+
+.copy {
+  background-color: deeppink;
+  color: white;
+}
+
+@media screen and (min-width: 1400px) {
+  .navRedes,
+  .navAgenda,
+  .navSobre {
     color: white;
-}
-
-.navRedes, .navAgenda, .navSobre{
-color: white;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: large;
-}
-
-.bannerPrincipal{
-    border: solid 1px deeppink;
-    padding-bottom: 90px;
-    padding-top: 90px;
-}
-
-#icons{
-    color: deeppink;
-}
-
-.copy{
-    background-color: deeppink;
-    color: white;
-}
-
-@media screen and (min-width:1400px){
-    .navRedes, .navAgenda, .navSobre{
-        color: white;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font-size: x-large;
-        }
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+  }
 }
