@@ -18,13 +18,27 @@ nav {
   font-size: large;
 }
 
+.nav-item:hover{
+  text-decoration: underline white;
+  color: white;
+}
+
 .bannerPrincipal {
-  padding-bottom: 100px;
-  padding-top: 100px;
+  padding-bottom: 38%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../imgs/MS.Site.jpeg);
 }
 
 #icons {
   color: deeppink;
+}
+
+#icons:hover{
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: deeppink;
+  color: white;
 }
 
 .copy {
@@ -44,9 +58,9 @@ nav {
 
 @media screen and (max-width: 440px){
   .bannerPrincipal{
-  background-image: url(../imgs/FotoSiteMS.jpeg);
+  background-image: url(../imgs/MS.Site-mobile.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 60%;
+  padding-bottom: 80%;
   }
 }
