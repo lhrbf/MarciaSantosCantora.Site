@@ -50,6 +50,565 @@ nav {
   color: deeppink;
 }
 
+@media screen and (max-width: 340px) {
+  .divLogo{
+    position: absolute;
+    left: 200px;
+    padding: 20px;
+  }
+  
+  .logotipo{
+    height: 85%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 341px) and (max-width: 351px) {
+  .divLogo{
+    position: absolute;
+    left: 220px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 352px) and (max-width: 377px) {
+  .divLogo{
+    position: absolute;
+    left: 240px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 378px) and (max-width: 397px) {
+  .divLogo{
+    position: absolute;
+    left: 260px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 398px) and (max-width: 420px) {
+  .divLogo{
+    position: absolute;
+    left: 280px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 421px) and (max-width: 440px) {
+  .divLogo{
+    position: absolute;
+    left: 300px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 441px) and (max-width: 460px) {
+  .divLogo{
+    position: absolute;
+    left: 320px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 461px) and (max-width: 489px) {
+  .divLogo{
+    position: absolute;
+    left: 340px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 490px) and (max-width: 504px) {
+  .divLogo{
+    position: absolute;
+    left: 360px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 505px) and (max-width: 540px) {
+  .divLogo{
+    position: absolute;
+    left: 400px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 541px) and (max-width: 558px) {
+  .divLogo{
+    position: absolute;
+    left: 420px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 559px) and (max-width: 585px) {
+  .divLogo{
+    position: absolute;
+    left: 440px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 586px) and (max-width: 610px) {
+  .divLogo{
+    position: absolute;
+    left: 470px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 611px) and (max-width: 642px) {
+  .divLogo{
+    position: absolute;
+    left: 500px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 643px) and (max-width: 688px) {
+  .divLogo{
+    position: absolute;
+    left: 540px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 689px) and (max-width: 720px) {
+  .divLogo{
+    position: absolute;
+    left: 570px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 721px) and (max-width: 749px) {
+  .divLogo{
+    position: absolute;
+    left: 600px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 750px) and (max-width: 792px) {
+  .divLogo{
+    position: absolute;
+    left: 640px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 793px) and (max-width: 835px) {
+  .divLogo{
+    position: absolute;
+    left: 680px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 836px) and (max-width: 889px) {
+  .divLogo{
+    position: absolute;
+    left: 730px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 890px) and (max-width: 950px) {
+  .divLogo{
+    position: absolute;
+    left: 790px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 950px) and (max-width: 1000px) {
+  .divLogo{
+    position: absolute;
+    left: 840px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1001px) and (max-width: 1060px) {
+  .divLogo{
+    position: absolute;
+    left: 890px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1061px) and (max-width: 1109px) {
+  .divLogo{
+    position: absolute;
+    left: 940px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1110px) and (max-width: 1170px) {
+  .divLogo{
+    position: absolute;
+    left: 1000px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1171px) and (max-width: 1235px) {
+  .divLogo{
+    position: absolute;
+    left: 1070px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1236px) and (max-width: 1270px) {
+  .divLogo{
+    position: absolute;
+    left: 1110px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1271px) and (max-width: 1325px) {
+  .divLogo{
+    position: absolute;
+    left: 1160px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1326px) and (max-width: 1370px) {
+  .divLogo{
+    position: absolute;
+    left: 1200px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1371px) and (max-width: 1425px) {
+  .divLogo{
+    position: absolute;
+    left: 1260px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1426px) and (max-width: 1480px) {
+  .divLogo{
+    position: absolute;
+    left: 1310px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1481px) and (max-width: 1529px) {
+  .divLogo{
+    position: absolute;
+    left: 1360px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1530px) and (max-width: 1575px) {
+  .divLogo{
+    position: absolute;
+    left: 1400px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1576px) and (max-width: 1610px) {
+  .divLogo{
+    position: absolute;
+    left: 1460px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1611px) and (max-width: 1680px) {
+  .divLogo{
+    position: absolute;
+    left: 1500px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1681px) and (max-width: 1750px) {
+  .divLogo{
+    position: absolute;
+    left: 1580px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1751px) and (max-width: 1825px) {
+  .divLogo{
+    position: absolute;
+    left: 1640px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1826px) and (max-width: 1900px) {
+  .divLogo{
+    position: absolute;
+    left: 1720px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1901px) and (max-width: 1981px) {
+  .divLogo{
+    position: absolute;
+    left: 1800px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 1982px) and (max-width: 2060px) {
+  .divLogo{
+    position: absolute;
+    left: 1880px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 2061px) and (max-width: 2120px) {
+  .divLogo{
+    position: absolute;
+    left: 1940px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 2121px) and (max-width: 2199px) {
+  .divLogo{
+    position: absolute;
+    left: 2000px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 2200px) {
+  .divLogo{
+    position: absolute;
+    left: 2100px;
+    padding: 15px;
+  }
+  
+  .logotipo{
+    height: 80%;
+    width: 100%;
+  }
+}
+
 @media screen and (min-width: 1400px) {
   .navRedes,
   .navAgenda,
