@@ -46,6 +46,10 @@ nav {
   color: white;
 }
 
+.titulo{
+  color: deeppink;
+}
+
 @media screen and (min-width: 1400px) {
   .navRedes,
   .navAgenda,
