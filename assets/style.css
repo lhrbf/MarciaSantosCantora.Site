@@ -24,10 +24,10 @@ nav {
 }
 
 .bannerPrincipal {
-  padding-bottom: 38%;
+  padding-bottom: 40%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../imgs/MS.Site.jpeg);
+  background-image: url(../imgs/MsSite.FotoGrande.jpeg);
 }
 
 #icons {
@@ -56,11 +56,27 @@ nav {
   }
 }
 
-@media screen and (max-width: 440px){
+@media screen and (max-width: 450px){
   .bannerPrincipal{
-  background-image: url(../imgs/MS.Site-mobile.jpeg);
+  background-image: url(../imgs/MsSite.FotoPequena.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 80%;
+  }
+
+  .agendaStyle{
+    font-size:small;
+    justify-content: center;
+  }
+
+  @media screen and (min-width: 300px) and (max-width: 345px){
+
+    .agendaStyle{
+      justify-content: center;
+    }
+    #tabelaEventos{
+      width: 100%;
+      font-size:smaller;
+    }
   }
 }
