@@ -1,12 +1,11 @@
 // Seu JSON com os dados dos eventos
 var dadosEventos = [
-  { "data": "18/01", "dia": "Quinta", "horario": "12:00", "local": "----", "evento": "Particular" },
-  { "data": "18/01", "dia": "Quinta", "horario": "20:00", "local": "Bairro Novo", "evento": "Seu Tchetcho" },
-  { "data": "19/01", "dia": "Sexta", "horario": "13:00", "local": "Janga", "evento": "Maria Bonita" },
-  { "data": "19/01", "dia": "Sexta", "horario": "19:00", "local": "Boa Vista", "evento": "Mustang" },
-  { "data": "20/01", "dia": "Sábado", "horario": "20:00", "local": "Janga", "evento": "Mini Mundo" },
-  { "data": "21/01", "dia": "Domingo", "horario": "18:00", "local": "Janga", "evento": "Boteco do Caranguejo" },
-  { "data": "22/01", "dia": "Segunda", "horario": "19:00", "local": "Jardim Atlântico", "evento": "Na Casa d'Mãe" }
+  { "data": "25/01", "dia": "Quinta", "horario": "20:00", "local": "Bairro Novo", "evento": "Seu Tchetcho" },
+  { "data": "26/01", "dia": "Sexta", "horario": "20:00", "local": "Carmo", "evento": "Manny Deck" },
+  { "data": "27/01", "dia": "Sábado", "horario": "13:00", "local": "---", "evento": "Particular" },
+  { "data": "27/01", "dia": "Sábado", "horario": "17:00", "local": "---", "evento": "Particular" },
+  { "data": "27/01", "dia": "Sábado", "horario": "23:00", "local": "Janga", "evento": "Mini Mundo" },
+  { "data": "28/01", "dia": "Domingo", "horario": "18:00", "local": "Janga", "evento": "Boteco do Caranguejo" }
   // Adicione mais eventos conforme necessário
 ];
 
