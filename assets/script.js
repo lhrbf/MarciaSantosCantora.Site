@@ -1,11 +1,12 @@
 // Seu JSON com os dados dos eventos
 var dadosEventos = [
-  { "data": "25/01", "dia": "Quinta", "horario": "20:00", "local": "Bairro Novo", "evento": "Seu Tchetcho" },
-  { "data": "26/01", "dia": "Sexta", "horario": "20:00", "local": "Carmo", "evento": "Manny Deck" },
-  { "data": "27/01", "dia": "Sábado", "horario": "13:00", "local": "---", "evento": "Particular" },
-  { "data": "27/01", "dia": "Sábado", "horario": "17:00", "local": "---", "evento": "Particular" },
-  { "data": "27/01", "dia": "Sábado", "horario": "23:00", "local": "Janga", "evento": "Mini Mundo" },
-  { "data": "28/01", "dia": "Domingo", "horario": "18:00", "local": "Janga", "evento": "Boteco do Caranguejo" }
+  { "data": "01/02", "dia": "Quinta", "horario": "20:00", "local": "Olinda", "evento": "Seu Tchetcho" },
+  { "data": "02/02", "dia": "Sexta", "horario": "20:00", "local": "Olinda", "evento": "Na Casa d´Mãe" },
+  { "data": "02/02", "dia": "Sexta", "horario": "01:00", "local": "Paulista", "evento": "Mini Mundo" },
+  { "data": "03/02", "dia": "Sábado", "horario": "15:00", "local": "---", "evento": "Particular" },
+  { "data": "03/02", "dia": "Sábado", "horario": "23:00", "local": "Recife", "evento": "Boteco do Bêu" },
+  { "data": "04/02", "dia": "Domingo", "horario": "12:00", "local": "---", "evento": "Particular" },
+  { "data": "04/02", "dia": "Domingo", "horario": "22:30", "local": "Paulista", "evento": "Mini Mundo" }
   // Adicione mais eventos conforme necessário
 ];
 
