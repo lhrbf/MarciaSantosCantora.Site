@@ -1,12 +1,10 @@
 // Seu JSON com os dados dos eventos
 var dadosEventos = [
-  { "data": "01/02", "dia": "Quinta", "horario": "20:00", "local": "Olinda", "evento": "Seu Tchetcho" },
-  { "data": "02/02", "dia": "Sexta", "horario": "20:00", "local": "Olinda", "evento": "Na Casa d´Mãe" },
-  { "data": "02/02", "dia": "Sexta", "horario": "01:00", "local": "Paulista", "evento": "Mini Mundo" },
-  { "data": "03/02", "dia": "Sábado", "horario": "15:00", "local": "---", "evento": "Particular" },
-  { "data": "03/02", "dia": "Sábado", "horario": "23:00", "local": "Recife", "evento": "Boteco do Bêu" },
-  { "data": "04/02", "dia": "Domingo", "horario": "12:00", "local": "---", "evento": "Particular" },
-  { "data": "04/02", "dia": "Domingo", "horario": "22:30", "local": "Paulista", "evento": "Mini Mundo" }
+  { "data": "15/02", "dia": "Quinta", "horario": "20:00", "local": "Olinda", "evento": "Seu Tchetcho" },
+  { "data": "17/02", "dia": "Sábado", "horario": "14:30", "local": "Itamaracá", "evento": "Particular" },
+  { "data": "17/02", "dia": "Sábado", "horario": "20:30", "local": "Paulista", "evento": "Particular" },
+  { "data": "17/02", "dia": "Sábado", "horario": "00:00", "local": "Paulista", "evento": "Mini Mundo" },
+  { "data": "18/02", "dia": "Domingo", "horario": "14:00", "local": "Recife", "evento": "Particular" }
   // Adicione mais eventos conforme necessário
 ];
 
