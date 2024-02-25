@@ -1,10 +1,10 @@
 // Seu JSON com os dados dos eventos
 var dadosEventos = [
-  { "data": "15/02", "dia": "Quinta", "horario": "20:00", "local": "Olinda", "evento": "Seu Tchetcho" },
-  { "data": "17/02", "dia": "Sábado", "horario": "14:30", "local": "Itamaracá", "evento": "Particular" },
-  { "data": "17/02", "dia": "Sábado", "horario": "20:30", "local": "Paulista", "evento": "Particular" },
-  { "data": "17/02", "dia": "Sábado", "horario": "00:00", "local": "Paulista", "evento": "Mini Mundo" },
-  { "data": "18/02", "dia": "Domingo", "horario": "14:00", "local": "Recife", "evento": "Particular" }
+  { "data": "21/02", "dia": "Quarta", "horario": "19:00", "local": "Olinda", "evento": "Na Casa D´Mãe" },
+  { "data": "22/02", "dia": "Quinta", "horario": "20:00", "local": "Olinda", "evento": "Seu Tchetcho" },
+  { "data": "23/02", "dia": "Sexta", "horario": "20:00", "local": "Olinda", "evento": "Manny Deck" },
+  { "data": "24/02", "dia": "Sábado", "horario": "20:00", "local": "Paulista", "evento": "Mini Mundo" },
+  { "data": "25/02", "dia": "Domingo", "horario": "14:00", "local": "Paulista", "evento": "Maria Bonita" }
   // Adicione mais eventos conforme necessário
 ];
 
