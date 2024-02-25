@@ -4,7 +4,7 @@ var dadosEventos = [
   { "data": "22/02", "dia": "Quinta", "horario": "20:00", "local": "Olinda", "evento": "Seu Tchetcho" },
   { "data": "23/02", "dia": "Sexta", "horario": "20:00", "local": "Olinda", "evento": "Manny Deck" },
   { "data": "24/02", "dia": "Sábado", "horario": "20:00", "local": "Paulista", "evento": "Mini Mundo" },
-  { "data": "25/02", "dia": "Domingo", "horario": "14:00", "local": "Paulista", "evento": "Maria Bonita" }
+  { "data": "25/02", "dia": "Domingo", "horario": "12:00", "local": "Paulista", "evento": "Maria Bonita" }
   // Adicione mais eventos conforme necessário
 ];
 
